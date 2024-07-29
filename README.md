@@ -5,8 +5,11 @@ Hello! I'm Bonface Maithya, a student developer currently studying at Jomo Kenya
 ## About Me
 
 I am passionate about technology and offering relevant solutions and eager to apply my skills in real-world projects. I have a strong interest in web development and am open to collaborating on web development projects for any client. 
-
 In addition to my development skills, I also possess graphical design abilities and am ready to assist with any graphic design tasks you may need.
+<p align="left">
+<br>📚 I'm currently pursuing Diploma in Information Technology(DIT)  <br>
+<br>🎯 Goals: advance my technical skill by developing more engaging and interactive webapplication and websites.<br>
+  
 ##
 <h2 align="left">I code with</h2>
 
