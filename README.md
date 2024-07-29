@@ -1,6 +1,6 @@
 # Maithya's Profile
 
-Hello! I'm Bonface Maithya, a student and aspiring full-stack developer currently studying at Jomo Kenyatta University of Technology and Agriculture. I am passionate about creating impactful digital solutions. I am pursuing a Diploma in Information Technology with the aim of advancing to a degree level and graduating by 2027. My interests include web development, full-stack development, UI/UX design, and more. I take a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!
+Hello! I'm Bonface Maithya, a student and aspiring full-stack developer currently studying at Jomo Kenyatta University of Technology and Agriculture. I am passionate about creating impactful digital solutions. I am pursuing a Diploma in Information Technology with the aim of advancing to a degree level and graduating by 2027. My learning progress has equipped me with skills in web development, full-stack development, UI/UX design, network administration, and management. I take a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!
 
 ## About Me
 
@@ -30,6 +30,8 @@ In addition to my development skills, I also possess graphical design abilities 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+   <img width="12" />     
 </div>
 
 ###
