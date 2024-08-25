@@ -42,6 +42,6 @@ In addition to my development skills, I also possess graphical design abilities 
 Feel free to connect with me on my social media platforms:
 
 - **LinkedIn:** [Bonface Maithya](https://linkedin.com/in/bonface-maithya-3b51b6278)  
-- **Email:** maithyabbonface123@gmail.com  
+- **Email:** maithyabonface123@gmail.com  
 
 I look forward to working with you!
