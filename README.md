@@ -4,15 +4,14 @@ Hello! I'm Bonface Maithya, a student and aspiring full-stack developer currentl
 
 ## About Me
 
-I am passionate about technology and offering relevant solutions and eager to apply my skills in real-world projects. I have a strong interest in web development and am open to collaborating on web development projects for any client. 
+I am passionate about technology and offering relevant solutions and eager to apply my skills in real-world projects. I have a strong interest in web development and i am open to collaborating on web development and design projects for any client. 
 In addition to my development skills, I also possess graphical design abilities and am ready to assist with any graphic design tasks you may need.
 <p align="left">
-<br>📚 I'm currently pursuing Diploma in Information Technology(DIT)  <br>
-<br>🎯 Goals: advance my technical skill by developing more engaging and interactive webapplication and websites.<br>
+<br>🎯 Goals: To advance my technical skill by developing more engaging and interactive webapplication and websites.<br>
+<br>🥅 Staying abrest with technological evolution and tech trends
   
 ##
 <h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">
