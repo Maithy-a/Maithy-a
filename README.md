@@ -12,7 +12,6 @@ In addition to my development skills, I also possess graphical design abilities 
   
 ##
 <h2 align="left">I code with</h2>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"/>
@@ -33,9 +32,6 @@ In addition to my development skills, I also possess graphical design abilities 
    <img width="12" />     
 </div>
 
-###
-
- 
 ## Get in Touch
 
 Feel free to connect with me on my social media platforms:
