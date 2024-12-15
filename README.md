@@ -1,15 +1,23 @@
 # Maithya's Profile
 
-Hello! I'm Bonface Maithya, a student and aspiring full-stack developer currently studying at Jomo Kenyatta University of Technology and Agriculture. I am passionate about creating impactful digital solutions. I am pursuing a Diploma in Information Technology with the aim of advancing to a degree level and graduating by 2027. My learning progress has equipped me with skills in web development, full-stack development, UI/UX design, network administration, and management. I take a holistic approach to crafting robust and visually appealing applications. Committed to continuous learning and collaboration, I'm excited about contributing to innovative projects and open to new opportunities. Let's connect and explore how we can bring your ideas to life!
+Hi there! I'm Bonface Maithya, an enthusiastic student and aspiring full-stack developer currently pursuing a degree in Information Technology at Jomo Kenyatta University of Agriculture and Technology.
+I'm passionate about leveraging technology to create impactful digital solutions. My academic and personal projects have helped me develop skills in web development, full-stack programming, UI/UX design, network administration, and IT management. I enjoy combining technical expertise with creativity to build applications that are both functional and visually appealing.
+I thrive on continuous learning and collaboration, always eager to explore new ideas and solve challenging problems. Whether it's contributing to innovative projects or working with teams to bring concepts to life, I'm excited about making a difference through technology.
+Let’s connect and discuss how we can collaborate to turn your ideas into reality!
 
 ## About Me
 
-I am passionate about technology and offering relevant solutions and eager to apply my skills in real-world projects. I have a strong interest in web development and i am open to collaborating on web development and design projects for any client. 
-In addition to my development skills, I also possess graphical design abilities and am ready to assist with any graphic design tasks you may need.
-<p align="left">
-<br>🎯 Goals: To advance my technical skill by developing more engaging and interactive webapplication and websites.<br>
-<br>🥅 Staying abrest with technological evolution and tech trends
-  
+I am passionate about technology and dedicated to offering practical solutions. I am eager to apply my skills to real-world projects and have a strong interest in web development. I’m open to collaborating on web development and design projects for clients, bringing creative ideas to life.  
+
+Beyond my development expertise, I also possess graphic design skills and am ready to assist with any graphic design tasks you may need.  
+
+🎯 **Goals**:  
+- To advance my technical skills by creating more engaging and interactive web applications and websites.  
+- To stay abreast of technological advancements and emerging tech trends.  
+
+Let’s collaborate to bring innovative ideas to reality!
+
+
 ##
 <h2 align="left">I code with</h2>
 
