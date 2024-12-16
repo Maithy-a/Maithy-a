@@ -30,24 +30,49 @@ Let’s collaborate to bring innovative ideas to reality!
 ---
 
 ## I Code With
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3 logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/node.js/339933" height="40" alt="Node.js logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo" />
+  </span>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer logo" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
+  </span>
+  <img width="12" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache logo" />
+  </span>
+  <img width="12" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/composer/885630" height="40" alt="Composer logo" />
+  </span>
+  <img width="12" />
 </div>
+
 
 ---
 
