@@ -1,4 +1,5 @@
-# Maithya's Profile
+
+# Welcome
 
 Hi there! I'm **Bonface Maithya**, an enthusiastic student and aspiring full-stack developer currently pursuing a degree in Information Technology at **Jomo Kenyatta University of Agriculture and Technology**.  
 
@@ -8,23 +9,19 @@ I'm passionate about leveraging technology to create impactful digital solutions
 - **Network Administration**
 - **IT Management**
 
-Ready to inject some digital magic into your projects? I'm a junior web developer with a knack for turning code into captivating online experiences. Armed with HTML, CSS, JavaScript, and Bootstrap, I'm a master of the digital canvas, creating responsive and user-friendly websites that are as beautiful as they are functional. I embrace the latest web trends and UI kits like Tabular UI to bring a touch of modern flair to every project. Let's build something amazing together!
-
-Let's craft your web persona,
-COLLABORATE WITH ME TO CRAFT EXCEPTIONAL DESIGNS
-THAT REFLECT YOUR UNIQUE VISION.
+As a junior web developer, I specialize in turning code into captivating online experiences. Armed with HTML, CSS, JavaScript, and Bootstrap, I craft responsive and user-friendly websites that are as beautiful as they are functional. By embracing the latest web trends and UI kits like Tabular UI, I infuse modern flair into every project. Ready to create something extraordinary? Let’s build amazing digital solutions together!
 
 ---
 
 ## About Me
 
-
-
-### MISSION:
-To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I'm constantly evolving my skills to build a more connected and inclusive digital world.
+### Mission
+To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I am constantly evolving my skills to build a more connected and inclusive digital world.
 
 ---
-## I Code With
+
+## Tools:
+
 <div align="left">
   <span style="background-color: white; padding: 5px;">
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
@@ -83,9 +80,10 @@ To weave digital magic that delights and empowers users. I'm passionate about wr
 
 ## Get in Touch
 
-Feel free to connect with me on my social media platforms:
+Feel free to connect with me on my platforms:
 
 - **LinkedIn:** [Bonface Maithya](https://linkedin.com/in/bonface-maithya-3b51b6278)  
 - **Email:** [maithyabonface123@gmail.com](mailto:maithyabonface123@gmail.com)  
 
-I look forward to working with you!
+I look forward to collaborating with you!
+
