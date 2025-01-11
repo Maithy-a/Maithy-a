@@ -4,31 +4,26 @@ Hi there! I'm **Bonface Maithya**, an enthusiastic student and aspiring full-sta
 
 I'm passionate about leveraging technology to create impactful digital solutions. My academic and personal projects have helped me develop skills in:
 - **Web Development**
-- **Full-Stack Programming**
 - **UI/UX Design**
 - **Network Administration**
 - **IT Management**
 
-I enjoy combining technical expertise with creativity to build applications that are both functional and visually appealing. I thrive on continuous learning and collaboration, always eager to explore new ideas and solve challenging problems. Whether it's contributing to innovative projects or working with teams to bring concepts to life, I'm excited about making a difference through technology.
+Ready to inject some digital magic into your projects? I'm a junior web developer with a knack for turning code into captivating online experiences. Armed with HTML, CSS, JavaScript, and Bootstrap, I'm a master of the digital canvas, creating responsive and user-friendly websites that are as beautiful as they are functional. I embrace the latest web trends and UI kits like Tabular UI to bring a touch of modern flair to every project. Let's build something amazing together!
 
-Let’s connect and discuss how we can collaborate to turn your ideas into reality!
+Let's craft your web persona,
+COLLABORATE WITH ME TO CRAFT EXCEPTIONAL DESIGNS
+THAT REFLECT YOUR UNIQUE VISION.
 
 ---
 
 ## About Me
 
-I am passionate about technology and dedicated to offering practical solutions. I am eager to apply my skills to real-world projects and have a strong interest in **web development**. I’m open to collaborating on web development and design projects for clients, bringing creative ideas to life.  
 
-Beyond my development expertise, I also possess **graphic design skills** and am ready to assist with any graphic design tasks you may need.  
 
-### 🎯 Goals:
-- Advance my technical skills by creating more engaging and interactive web applications and websites.  
-- Stay up-to-date with technological advancements and emerging tech trends.  
-
-Let’s collaborate to bring innovative ideas to reality!
+### MISSION:
+To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I'm constantly evolving my skills to build a more connected and inclusive digital world.
 
 ---
-
 ## I Code With
 <div align="left">
   <span style="background-color: white; padding: 5px;">
@@ -71,8 +66,18 @@ Let’s collaborate to bring innovative ideas to reality!
     <img src="https://cdn.simpleicons.org/composer/885630" height="40" alt="Composer logo" />
   </span>
   <img width="12" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel logo" />
+  </span>
+  <img width="12" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="Heroku logo" />
+  </span>
+  <img width="12" />
+  <span style="background-color: white; padding: 5px;">
+    <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render logo" />
+  </span>
 </div>
-
 
 ---
 
