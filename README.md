@@ -11,14 +11,11 @@ I'm passionate about leveraging technology to create impactful digital solutions
 
 As a junior web developer, I specialize in turning code into captivating online experiences. Armed with HTML, CSS, JavaScript, and Bootstrap, I craft responsive and user-friendly websites that are as beautiful as they are functional. By embracing the latest web trends and UI kits like Tabular UI, I infuse modern flair into every project. Ready to create something extraordinary? Let’s build amazing digital solutions together!
 
----
 
 ## About Me
 
 ### Mission
 To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I am constantly evolving my skills to build a more connected and inclusive digital world.
-
----
 
 ## Tools:
 
@@ -75,8 +72,6 @@ To weave digital magic that delights and empowers users. I'm passionate about wr
     <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render logo" />
   </span>
 </div>
-
----
 
 ## Get in Touch
 
