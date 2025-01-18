@@ -9,7 +9,7 @@ I'm passionate about leveraging technology to create impactful digital solutions
 - **Network Administration**
 - **IT Management**
 
-As a junior web developer, I specialize in turning code into captivating online experiences. Armed with HTML, CSS, JavaScript, and Bootstrap, I craft responsive and user-friendly websites that are as beautiful as they are functional. By embracing the latest web trends and UI kits like Tabular UI, I infuse modern flair into every project. Ready to create something extraordinary? Let’s build amazing digital solutions together!
+As a junior web developer, I specialize in crafting engaging and dynamic online experiences. Proficient in HTML, CSS, JavaScript, Node.js, PHP, and Bootstrap, I develop responsive, user-centric websites that seamlessly blend aesthetics and functionality. By leveraging modern web trends and advanced UI frameworks such as Tabular UI, I ensure each project reflects a contemporary and polished design. Let’s collaborate to create innovative and impactful digital solutions.
 
 
 ## About Me
