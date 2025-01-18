@@ -11,9 +11,6 @@ I'm passionate about leveraging technology to create impactful digital solutions
 
 As a junior web developer, I specialize in crafting engaging and dynamic online experiences. Proficient in HTML, CSS, JavaScript, Node.js, PHP, and Bootstrap, I develop responsive, user-centric websites that seamlessly blend aesthetics and functionality. By leveraging modern web trends and advanced UI frameworks such as Tabular UI, I ensure each project reflects a contemporary and polished design. Let’s collaborate to create innovative and impactful digital solutions.
 
-
-## About Me
-
 ### Mission
 To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I am constantly evolving my skills to build a more connected and inclusive digital world.
 
