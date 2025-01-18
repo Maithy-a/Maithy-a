@@ -1,7 +1,7 @@
 
 # Welcome
 
-Hi there! I'm **Bonface Maithya**, an enthusiastic student and aspiring full-stack developer currently pursuing a degree in Information Technology at **Jomo Kenyatta University of Agriculture and Technology**.  
+Hi there! I'm **Bonface Maithya**, an enthusiastic student and aspiring full-stack developer currently pursuing my major in Information Technology at the **Jomo Kenyatta University of Agriculture and Technology**.  
 
 I'm passionate about leveraging technology to create impactful digital solutions. My academic and personal projects have helped me develop skills in:
 - **Web Development**
