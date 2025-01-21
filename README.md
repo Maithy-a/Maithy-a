@@ -38,20 +38,25 @@ To weave digital magic that delights and empowers users. I'm passionate about wr
 
 Feel free to connect with me on my platforms:
 
-<a href="https://www.instagram.com/coding.stella">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>
-</a>
-<a href="mailto:bonn.dev254@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
+<a href="https://www.instagram.com/_b0nni3._._/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/maithya/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
 </a>
-<a href="https://discord/_b0nni3._._">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord" alt="Discord"/>
+<a href="https://codepen.io/BMaithya">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen" alt="Codepen"/>
 </a>
-<a href=""> 
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
+<a href="https://discord.gg/_b0nni3._._">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord" alt="Discord"/>
+</a>
+<a href="mailto:bonn.dev254@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
 </a>
 
-I look forward to collaborating with you!
+
+
+
+
+
+
