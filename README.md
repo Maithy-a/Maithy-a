@@ -14,68 +14,45 @@ As a junior web developer, I specialize in crafting engaging and dynamic online 
 ### Mission
 To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I am constantly evolving my skills to build a more connected and inclusive digital world.
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maithy-a&layout=donut-vertical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maithy-a&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)
+
 ## Tools:
 
-<div align="left">
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3 logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/node.js/339933" height="40" alt="Node.js logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="Apache logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/composer/885630" height="40" alt="Composer logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/heroku/430098" height="40" alt="Heroku logo" />
-  </span>
-  <img width="12" />
-  <span style="background-color: white; padding: 5px;">
-    <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render logo" />
-  </span>
-</div>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")
 
 ## Get in Touch
 
 Feel free to connect with me on my platforms:
 
-- **LinkedIn:** [Bonface Maithya](https://linkedin.com/in/bonface-maithya-3b51b6278)  
-- **Email:** [maithyabonface123@gmail.com](mailto:maithyabonface123@gmail.com)  
+<a href="https://www.instagram.com/coding.stella">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>
+</a>
+<a href="mailto:bonn.dev254@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
+</a><br>
+<a href="https://discord/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord" alt="Discord"/>
+</a>
+<a href=""> 
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
+</a>
 
 I look forward to collaborating with you!
 
