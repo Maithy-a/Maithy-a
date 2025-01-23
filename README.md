@@ -47,7 +47,7 @@ Feel free to connect with me on my platforms:
 <a href="https://codepen.io/BMaithya">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen" alt="Codepen"/>
 </a>
-<a href="https://discord.gg/_b0nni3._._">
+<a href="(https://discord.com/users/981898901349076994)">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord" alt="Discord"/>
 </a>
 <a href="mailto:bonn.dev254@gmail.com">
