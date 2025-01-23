@@ -15,7 +15,7 @@ As a junior web developer, I specialize in crafting engaging and dynamic online 
 
 To weave digital magic that delights and empowers users. I'm passionate about writing elegant, sustainable code that creates seamless, accessible online experiences. Fueled by a lifelong love of learning, I am constantly evolving my skills to build a more connected and inclusive digital world.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maithy-a&layout=donut-vertical)
+<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maithy-a&layout=donut-vertical)>
 
 ## Tools:
 
