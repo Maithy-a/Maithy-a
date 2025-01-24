@@ -17,7 +17,11 @@ To weave digital magic that delights and empowers users. I'm passionate about wr
 
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maithy-a&layout=donut-vertical)-->
 
+- 🌱 Currently learning **React and nextJs**
+
 ## Tools:
+
+<div align="left">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
@@ -34,29 +38,15 @@ To weave digital magic that delights and empowers users. I'm passionate about wr
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")<br>
 
+</div>
+
 ## Get in Touch
 
 Feel free to connect with me on my platforms:
 
-<a href="https://www.instagram.com/_b0nni3._._/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/maithya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
-</a>
-<a href="https://codepen.io/BMaithya">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen" alt="Codepen"/>
-</a>
-<a href="(https://discord.com/users/981898901349076994)">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord" alt="Discord"/>
-</a>
-<a href="mailto:bonn.dev254@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
-</a>
-
-
-
-
-
-
-
+<p align="left">
+  <a href="https://instagram.com/_b0nni3._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_b0nni3._._" height="40" width="30" /></a>
+  <a href="https://linkedin.com/in/maithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40" alt="linkedin logo"  /></a>
+  <a href="https://x.com/Maithy_a" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="27" alt="twitter logo"  />
+    </a>
+  </p>
