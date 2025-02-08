@@ -11,22 +11,22 @@ I'm passionate about leveraging technology to create impactful digital solutions
 
 As a junior web developer, I specialize in crafting engaging and dynamic online experiences. Proficient in HTML, CSS, JavaScript, Node.js, PHP, and Bootstrap, I create responsive, user-centric websites that seamlessly blend aesthetics with functionality. By leveraging modern web trends and UI frameworks like Tabular UI, I ensure each project reflects a polished and contemporary design. Let’s collaborate to bring innovative digital solutions to life!
 
----
 
-### Mission
+
+## Mission
 
 To create digital magic that delights and empowers users. I’m passionate about writing elegant, sustainable code to build seamless, accessible online experiences. Fueled by a lifelong love for learning, I constantly evolve my skills to help create a more connected and inclusive digital world.
 
----
 
-### 🌱 Currently Learning
+
+## I'm Currently Learning
 
 - **React**  
 - **Next.js**
 
----
 
-### Tools & Technologies
+
+## Tools & Technologies
 
 <div align="left">
 
@@ -46,18 +46,17 @@ To create digital magic that delights and empowers users. I’m passionate about
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/maithy-a)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
 
-### Get in Touch
+
+## Get in Touch
 
 Feel free to connect with me on these platforms:
 
 <p align="left">
+    <a href="https://linkedin.com/in/maithya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="30" height="40" /></a>
   <a href="https://instagram.com/_b0nni3._._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="30" /></a>
-  <a href="https://linkedin.com/in/maithya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="30" height="40" /></a>
 </p>
