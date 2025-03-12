@@ -50,8 +50,6 @@ To create digital magic that delights and empowers users. I’m passionate about
 
 </div>
 
-![](https://github-contributor-stats.vercel.app/api?username=Maithy-a&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## Get in Touch
 
 Feel free to connect with me on these platforms:
