@@ -11,7 +11,10 @@ I'm passionate about leveraging technology to create impactful digital solutions
 
 As a junior web developer, I specialize in crafting engaging and dynamic online experiences. Proficient in HTML, CSS, JavaScript, Node.js, PHP, and Bootstrap, I create responsive, user-centric websites that seamlessly blend aesthetics with functionality. By leveraging modern web trends and UI frameworks like Tabular UI, I ensure each project reflects a polished and contemporary design. Let’s collaborate to bring innovative digital solutions to life!
 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_b0nni3._._/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithya/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]( https://pin.it/3uiXmDS97) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://www.tiktok.com/@bonni3._._]) 
 
 ## Mission
 
@@ -26,7 +29,7 @@ To create digital magic that delights and empowers users. I’m passionate about
 
 
 
-## Tools & Technologies
+## 🧰 Languages and Tools
 
 <div align="left">
 
