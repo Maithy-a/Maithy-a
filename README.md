@@ -1,33 +1,26 @@
 # Welcome
 
-Hi there! I'm **Bonface Maithya**, an enthusiastic student and aspiring full-stack developer currently pursuing a Bachelors of Science in Information Technology at **Jomo Kenyatta University of Agriculture and Technology**.
-
-I'm passionate about leveraging technology to create impactful digital solutions. Through academic and personal projects, I’ve developed skills in:
-
+Hi! I’m Bonface Maithya, a student and aspiring full-stack developer studying Information Technology at Jomo Kenyatta University of Agriculture and Technology. I love using tech to build impactful solutions.
+My skills include:
 - **Web Development**
 - **UI/UX Design**
 - **Network Administration**
 - **IT Management**
+  
+As a junior web developer, I build responsive, user-friendly websites using HTML, CSS, JavaScript, Node.js, PHP, and Bootstrap. I focus on modern design and functionality to create engaging digital experiences. Let’s work together to bring ideas to life!
 
-As a junior web developer, I specialize in crafting engaging and dynamic online experiences. Proficient in HTML, CSS, JavaScript, Node.js, PHP, and Bootstrap, I create responsive, user-centric websites that seamlessly blend aesthetics with functionality. By leveraging modern web trends and UI frameworks like Tabular UI, I ensure each project reflects a polished and contemporary design. Let’s collaborate to bring innovative digital solutions to life!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_b0nni3._._/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithya/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]( https://pin.it/3uiXmDS97) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://www.tiktok.com/@bonni3._._]) 
-
-## Mission
-
-To create digital magic that delights and empowers users. I’m passionate about writing elegant, sustainable code to build seamless, accessible online experiences. Fueled by a lifelong love for learning, I constantly evolve my skills to help create a more connected and inclusive digital world.
+### Mission
+~ To write clean, sustainable code that creates seamless, accessible online experiences and makes the digital world more connected.
 
 ## Currently Learning
 
-- **React**  
-- **Next.js**
+~ **React**  
+~ **Next.js**
 
 ## Languages and Tools
 
 <div align="left">
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,10 +43,11 @@ To create digital magic that delights and empowers users. I’m passionate about
 </div>
 
 ## Get in Touch
+<div align="left">Reach out via:</div><br>
 
-Feel free to connect with me on these platforms:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_b0nni3._._/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithya/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]( https://pin.it/3uiXmDS97) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://www.tiktok.com/@bonni3._._])
+ 
 
-<p align="left">
-    <a href="https://linkedin.com/in/maithya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" width="30" height="40" /></a>
-  <a href="https://instagram.com/_b0nni3._._" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="30" /></a>
-</p>
