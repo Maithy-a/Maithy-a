@@ -20,16 +20,12 @@ As a junior web developer, I specialize in crafting engaging and dynamic online 
 
 To create digital magic that delights and empowers users. I’m passionate about writing elegant, sustainable code to build seamless, accessible online experiences. Fueled by a lifelong love for learning, I constantly evolve my skills to help create a more connected and inclusive digital world.
 
-
-
-## I'm Currently Learning
+## Currently Learning
 
 - **React**  
 - **Next.js**
 
-
-
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <div align="left">
 
