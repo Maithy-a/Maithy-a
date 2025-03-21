@@ -63,6 +63,7 @@ Let’s collaborate and bring innovative ideas to life! 🚀
 
 ## Get in Touch
 <div align="left">
+    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_b0nni3._._/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithya/) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]( https://pin.it/3uiXmDS97) 
