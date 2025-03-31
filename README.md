@@ -59,6 +59,10 @@ Let’s collaborate and bring innovative ideas to life! 🚀
             <td></td>
         </tr>
     </table>
+
+| <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api?username=maithy-a&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Araxeus's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api/top-langs/?username=maithy-a&exclude_repo=Arax,github-slideshow,vscodium,Obsidian-Vault,electron-builder,cli-progress,node-notifier,custom-electron-titlebar,chromecast-api,github-readme-stats,nopy,peru,YouTube.js,bun,&theme=tokyonight&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+    
 </div>
 
 ## Get in Touch
@@ -71,6 +75,3 @@ Let’s collaborate and bring innovative ideas to life! 🚀
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bmaithya000@gmail.com) 
 
 </div>
-
-| <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api?username=maithy-a&count_private=true&show_icons=true&theme=merko&include_all_commits=true&hide_border=true" alt="Araxeus's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api/top-langs/?username=maithy-a&exclude_repo=Arax,github-slideshow,vscodium,Obsidian-Vault,electron-builder,cli-progress,node-notifier,custom-electron-titlebar,chromecast-api,github-readme-stats,nopy,peru,YouTube.js,bun,&theme=merko&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
