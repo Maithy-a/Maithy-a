@@ -6,7 +6,7 @@ As a junior web developer, I specialize in building responsive and user-friendly
 
 🔹 **Mission:** To write clean, sustainable code that ensures seamless, accessible online experiences and enhances digital connectivity.  
 
-Let’s collaborate and bring innovative ideas to life! 🚀
+~ Let’s collaborate and bring innovative ideas to life! 🚀
 
 ## Currently Learning
 ~ **React**  
