@@ -1,4 +1,4 @@
-## Ahoy, I'm Bonface Maithya, 
+## Ahoy, I'm Maithya, 
 
 I'm a passionate student and aspiring full-stack developer pursuing Information Technology at Jomo Kenyatta University of Agriculture and Technology. I enjoy leveraging technology to create meaningful and impactful solutions.  
 
