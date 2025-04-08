@@ -1,6 +1,6 @@
 ## Ahoy, I'm Maithya, 
 
-I'm a passionate student and aspiring full-stack developer pursuing Information Technology at Jomo Kenyatta University of Agriculture and Technology. I enjoy leveraging technology to create meaningful and impactful solutions.  
+A passionate student and aspiring full-stack developer pursuing Information Technology at Jomo Kenyatta University of Agriculture and Technology. I enjoy leveraging technology to create meaningful and impactful solutions.  
 
 As a junior web developer, I specialize in building responsive and user-friendly websites using **HTML, CSS, Python, JavaScript, PHP, and Bootstrap**. My focus is on crafting modern, functional, and engaging digital experiences.  
 
