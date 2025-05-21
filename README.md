@@ -1,4 +1,4 @@
-## Ahoy, I'm Maithya, 
+## I'm Maithya, 
 
 A passionate student and aspiring developer pursuing Information Technology at Jomo Kenyatta University of Agriculture and Technology. I enjoy leveraging technology to create meaningful and impactful solutions.  
 
