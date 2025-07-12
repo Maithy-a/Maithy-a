@@ -49,21 +49,22 @@ As a junior web developer, I specialize in building responsive and user-friendly
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
 
-###
-
-###
-
-## Get in Touch
+## Get in Touch  
 <div align="left">
-    
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_b0nni3._._/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maithya/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]( https://pin.it/3uiXmDS97) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@bonni3._._)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bmaithya000@gmail.com) 
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
 
+<div></div>
 
+###
 | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api?username=maithy-a&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&card_border_radius=0" alt="Araxeus's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api/top-langs/?username=maithy-a&exclude_repo=Arax,github-slideshow,vscodium,Obsidian-Vault,electron-builder,cli-progress,node-notifier,custom-electron-titlebar,chromecast-api,github-readme-stats,nopy,peru,YouTube.js,bun,&theme=github_dark&layout=compact&hide_border=true&card_border_radius=0" /></a> |
 | ------------- | ------------- |
 
-</div>
