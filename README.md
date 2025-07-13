@@ -73,9 +73,6 @@ As a junior web developer, I specialize in building responsive and user-friendly
   </tr>
 </table>
 
-| <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api?username=maithy-a&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&card_border_radius=0" alt="Araxeus's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api/top-langs/?username=maithy-a&exclude_repo=Arax,github-slideshow,vscodium,Obsidian-Vault,electron-builder,cli-progress,node-notifier,custom-electron-titlebar,chromecast-api,github-readme-stats,nopy,peru,YouTube.js,bun,&theme=github_dark&layout=compact&hide_border=true&card_border_radius=0" /></a> |
-| ------------- | ------------- |
-
 
 
 
