@@ -48,25 +48,41 @@ As a junior web developer, I specialize in building responsive and user-friendly
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />  
 </div>
 
-## Get in Touch  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
+  
+## Get in Touch
 
-<div></div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/maithya/">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/_b0nni3.__/">
+        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+      </a>
+    </td>
+    <td>
+      <a href="https://codepen.io/BMaithya">
+        <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="Codepen" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/981898901349076994">
+        <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-###
 | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api?username=maithy-a&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&card_border_radius=0" alt="Araxeus's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats-araxeus.vercel.app/api/top-langs/?username=maithy-a&exclude_repo=Arax,github-slideshow,vscodium,Obsidian-Vault,electron-builder,cli-progress,node-notifier,custom-electron-titlebar,chromecast-api,github-readme-stats,nopy,peru,YouTube.js,bun,&theme=github_dark&layout=compact&hide_border=true&card_border_radius=0" /></a> |
 | ------------- | ------------- |
+
+
+
+
 
