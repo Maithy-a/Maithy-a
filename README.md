@@ -1,16 +1,13 @@
-## I'm Maithya, 
+### Hi there,
 
-A passionate student and aspiring developer pursuing Information Technology at Jomo Kenyatta University of Agriculture and Technology. I enjoy leveraging technology to create meaningful and impactful solutions.  
+I'm [Bonface](https://bmaithya.vercel.app/) — a frontend enthusiast and IT student with a passion for turning ideas into clean, interactive web experiences. I enjoy crafting sleek, responsive interfaces that don’t just look good but feel intuitive to use. I bring designs to life blending aesthetics with functionality to build modern, user-friendly websites that leave a lasting impression
 
-As a junior web developer, I specialize in building responsive and user-friendly websites using **HTML, CSS, Python, JavaScript, PHP, and Bootstrap**. My focus is on crafting modern, functional, and engaging digital experiences.  
+🔹 **Mission:** Design and build responsive, user-first interfaces that deliver meaningful digital experiences.
 
-🔹 **Mission:** To write clean, sustainable code that ensures seamless, accessible online experiences and enhances digital connectivity.  
+## Learning
 
-› Let’s collaborate and bring innovative ideas to life! 🚀
-
-## Currently Learning
 → **React + Vite**  
-→ **NextJs**
+→ **NextJs**<br>
 → **Supabase**
 
 
@@ -32,7 +29,6 @@ As a junior web developer, I specialize in building responsive and user-friendly
   <img width="12" />
   
   ###
-  
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
@@ -46,7 +42,7 @@ As a junior web developer, I specialize in building responsive and user-friendly
 </div>
 
   
-## Get in Touch
+## Reach out
 
 <table>
   <tr>
