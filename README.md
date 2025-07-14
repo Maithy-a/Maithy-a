@@ -10,7 +10,7 @@ I'm [Bonface](https://bmaithya.vercel.app/) — a frontend enthusiast and IT stu
 → **NextJs + Shacn UI**<br>
 → **Supabase**
 
-> 💡 Always learning. Always building. Open to collaborations!
+> 💡 Always learning. Always building. Open to [collaborations!](https://cal.com/bmaithya)
 
 ##  Tech Stack & Tools
 <div align="left">
