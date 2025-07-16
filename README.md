@@ -26,10 +26,10 @@ I'm [Bonface](https://bmaithya.vercel.app/) — a frontend enthusiast and IT stu
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
   
   ###
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
