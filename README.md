@@ -1,6 +1,6 @@
 ### Hi there,
 
-I'm [Bonface](https://bmaithya.vercel.app/) — a frontend enthusiast and IT student with a passion for turning ideas into clean, interactive web experiences. I enjoy crafting sleek, responsive interfaces that don’t just look good but feel intuitive to use. I bring designs to life blending aesthetics with functionality to build modern, user-friendly websites that leave a lasting impression
+I'm [Maithya](https://bmaithya.vercel.app/) — a frontend engineer and IT student with a passion for turning ideas into clean, interactive web experiences. I enjoy crafting sleek, responsive interfaces that don’t just look good but feel good. I bring designs to life blending aesthetics with functionality to build modern, user-friendly websites that leave a lasting impression.
 
 🔹 **Mission:** Design and build responsive, user-first interfaces that deliver meaningful digital experiences.
 
