@@ -6,8 +6,8 @@ I'm [Maithya](https://bmaithya.vercel.app/) — a frontend engineer and IT stude
 
 ## Learning
 
-→ **React + Vite**  
-→ **NextJs + Shacn UI**<br>
+→ **Reactjs**  
+→ **NextJs**<br>
 → **Supabase**
 
 > 💡 Always learning. Always building. Open to [collaborations!](https://cal.com/bmaithya)
