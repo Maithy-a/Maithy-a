@@ -1,49 +1,29 @@
 ### Hi there,
 
-I'm [Maithya](https://bmaithya.vercel.app/) — a frontend engineer and IT student with a passion for turning ideas into clean, interactive web experiences. I enjoy crafting sleek, responsive interfaces that don’t just look good but feel good. I bring designs to life blending aesthetics with functionality to build modern, user-friendly websites that leave a lasting impression.
+I'm [Bonface Maithya](https://bmaithya.vercel.app/) — a self-taught front-end developer and IT student driven by the mission to translate innovative ideas into **exceptional web experiences**. I specialize in blending aesthetics and functionality to craft sleek, responsive, and **highly interactive interfaces**. Let's build modern, user-friendly websites that truly resonate.
 
-🔹 **Mission:** Design and build responsive, user-first interfaces that deliver meaningful digital experiences.
+🔹 **Mission:** To serve as the critical link between design vision and technical execution.
 
-## Learning
+## Currently Learning & Growing
 
-→ **Reactjs**  
-→ **NextJs**<br>
-→ **Supabase**
+* **Next.js** (Focusing on server components and edge functions)
+* **Reactjs** (Advanced state management and component architecture)
+* **AI Integration** (Exploring tools like Vercel AI SDK and LangChain)
 
-> 💡 Always learning. Always building. Open to [collaborations!](https://cal.com/bmaithya)
+> 💡 **Always learning. Always building.** Open to collaborations: [Book a session with me !](https://cal.com/bmaithya)
 
-##  Tech Stack & Tools
+
+## Tech Stack & Tools
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" /> 
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  
-  ###
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,git"  height="45" alt="Core Technologies" />
+    <br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=tailwind,figma,firebase,supabase,postgres,mongodb,sentry,gcp" height="45" alt="Tools and Databases" />
 </div>
 
-  
-## Reach out
+
+## Let's Connect
 
 <table>
   <tr>
@@ -69,8 +49,3 @@ I'm [Maithya](https://bmaithya.vercel.app/) — a frontend engineer and IT stude
     </td>
   </tr>
 </table>
-
-
-
-
-
