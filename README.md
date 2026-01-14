@@ -1,6 +1,6 @@
 ### Hi there,
 
-I'm [Bonface Maithya](https://bmaithya.vercel.app/) — a self-taught front-end developer and IT student driven by the mission to translate innovative ideas into **exceptional web experiences**. I specialize in blending aesthetics and functionality to craft sleek, responsive, and **highly interactive interfaces**. Let's build modern, user-friendly websites that truly resonate.
+I'm [Bonface Maithya](https://bmaithya.vercel.app/) — a front-end developer and IT student driven by the mission to translate innovative ideas into **exceptional web experiences**. I specialize in blending aesthetics and functionality to craft sleek, responsive, and **highly interactive interfaces**. Let's build modern, user-friendly websites that truly resonate.
 
 🔹 **Mission:** To serve as the critical link between design vision and technical execution.
 
@@ -35,11 +35,6 @@ I'm [Bonface Maithya](https://bmaithya.vercel.app/) — a self-taught front-end 
     <td>
       <a href="https://www.instagram.com/_b0nni3.__/">
         <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-      </a>
-    </td>
-    <td>
-      <a href="https://codepen.io/BMaithya">
-        <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="Codepen" />
       </a>
     </td>
     <td>
