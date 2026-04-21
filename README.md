@@ -15,5 +15,6 @@ I specialize in building sleek, responsive, and highly interactive interfaces, w
   <a href="https://www.linkedin.com/in/maithya/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/maithy.a_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
   <a href="https://discord.com/users/981898901349076994"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" /></a>
+  <a href="https://x.com/Maithy_a"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Discord" /></a>
 </div>
 
