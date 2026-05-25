@@ -1,5 +1,5 @@
 ## Hi There,
-I'm [Bonface Maithya](https://bmaithya.vercel.app/) <br><br> A front-end developer and IT student passionate about turning ideas into exceptional, high-performance web experiences.
+I'm [Bonface Maithya](https://bmaithya.vercel.app/) <br><br> A Full-stack developer and IT student passionate about turning ideas into exceptional, high-performance web experiences.
 I specialize in building sleek, responsive, and highly interactive interfaces, with a strong focus on usability, performance, and clean design systems.
 
 🔹 **Mission:** To serve as the critical link between design vision and technical execution.
